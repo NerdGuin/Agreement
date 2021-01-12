@@ -2,4 +2,4 @@
 
 Olá, meu nome é Victor, sou o desenvolvedor do Agreement, uma aplicação de bate-papo em tempo real.
 
-[Veja todas as atualizações aqui.](github.com/NerdGuin/Agreement/releases)
+[Veja todas as atualizações aqui.](https://github.com/NerdGuin/Agreement/releases "Atualizações")
